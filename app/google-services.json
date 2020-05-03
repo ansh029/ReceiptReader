@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812920501770",
+    "firebase_url": "https://receipt-reader-7f7da.firebaseio.com",
+    "project_id": "receipt-reader-7f7da",
+    "storage_bucket": "receipt-reader-7f7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812920501770:android:0b07f2b81bf1fb6a5a51f3",
+        "android_client_info": {
+          "package_name": "com.example.receiptreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812920501770-vud6bbdk208p7dnbrbd1e85cn6t5nml7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6xfAt66q1a9y-3mdoYMiCsRy76AjIyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812920501770-vud6bbdk208p7dnbrbd1e85cn6t5nml7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
